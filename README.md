@@ -23,4 +23,4 @@
 - Email : sadoudiallo303@gmail.com
 
 ## 😄 Pronoms
-- Il / Lui \(`he/him`\) : mes pronoms en français et en anglais
+- Il / Lui (`he/him`) : mes pronoms en français et en anglais
